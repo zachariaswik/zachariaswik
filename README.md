@@ -1,9 +1,6 @@
-Hey, my name is Erik
+I'm Erik,
 
-I study currently studying computer science with and I'm co background in Data Science, Algorithm Development and Neuroscience. 
-I decided to switch careers to Computer Science after realizing the creative joy of being able to develop my own applications. 
-
-- 🔭 I’m currently developing Cevvy a CV generator and job application tracker. 
-- 🌱 I’m currently learning about databases. 
+a computer science with a background in Data Science, Algorithm Development and Neuroscience. 
+I love working full-stack engineer and a generalist on projects where there's a need to understand the whole project scope - from the developing to the end-user experience. With understanding of sales, marketing, product and business. 
 
 📫 Email me on [erik.z.wik@gmail.com](mailto:erik.z.wik@gmail.com)
